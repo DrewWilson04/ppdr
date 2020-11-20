@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Instagram Privacy Policy
-date: 2020-19-11
+date: 20th Friday November 2020
 summary: The summary for Instagrams Privacy Policy
 categories: Privacy Policy
 ---
