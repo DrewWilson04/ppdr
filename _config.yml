@@ -3,7 +3,7 @@ title:       ppdr
 email:       drewwilson2022@gmail.com
 author:      Drew Wilson
 description: "Summaries of Privacy Policies"
-baseurl:     "/privacypolicytldr"
+baseurl:     "/ppdr"
 url:         "https://drewwilson.club"
 date_format: "%b %-d, %Y"
 header_pages:
